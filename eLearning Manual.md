@@ -65,6 +65,15 @@
   - [Direction](#direction)
   - [The Golden Rule of Cavern Diving](#the-golden-rule-of-cavern-diving)
   - [Chapter 7 Summary](#chapter-7-summary)
+- [Chapter 8: Gas Management](#chapter-8-gas-management)
+  - [Terminology](#terminology)
+  - [Thirds: It’s for Cavern Divers Too](#thirds-its-for-cavern-divers-too)
+  - [Simple Turnaround Calulations](#simple-turnaround-calulations)
+    - [When you can “keep it simple”](#when-you-can-keep-it-simple)
+  - [Simple Gas Matching](#simple-gas-matching)
+  - [Dissimilar Cylinders](#dissimilar-cylinders)
+  - [Gas Matching for Cavern Diving](#gas-matching-for-cavern-diving)
+  - [Chapter 8 Summary](#chapter-8-summary)
 
 # Chapter 1: Introduction
 
@@ -805,3 +814,168 @@ Each team member must be assured he or she can terminate a dive at any time with
 - If a cavern is so large that there is a risk of accidentally exceeding the maximum penetration distance for cavern diving, your plan must include a landmark that team members agree they will not go past.
 - In caverns of a certain size, your dive plan may need to include which entrance you will use and which route you will follow after entering.
 - Any team member can “call” any dive, at any time and for any reason.
+
+# Chapter 8: Gas Management
+
+While cavern and cave divers can experience any number of problems while diving, the one true emergency is being suddenly without gas to breathe. This is why gas management is the most important aspect of dive planning.
+
+Here we’ll look at how you can prevent out-of-air emergencies through proper dive planning.
+
+## Terminology
+
+Throughout this chapter, we use three terms. These are:
+
+- Usable gas: The volume of gas any team member can use before it’s time to terminate the dive and head for the exit.
+- Turnaround point: A value determined by subtracting usable gas from actual starting volume.
+- Controlling diver: The controlling diver is the one with the least actual starting gas volume. He or she will be the one that determines the usable gas for both himself and his buddy or team.
+
+## Thirds: It’s for Cavern Divers Too
+
+The “Rule of Thirds” calls for cave divers to use one-third of their gas supply for entering and exploring, one-third for exiting, and leave one-third remaining in reserve for emergencies. No matter where they are in the cave and what they are doing, they plan to have twice as much gas in reserve as they theoretically need to exit the cave.
+
+Why do cavern divers need to adhere to this rule? After all, cavern divers are supposed to remain within 60 m/200 ft of the surface. The gas need to cover this distance wouldn’t be that much, right?
+
+The problem is the amount of gas needed to swim out from your maximum point of penetration makes no allowances for the time needed to:
+
+- Search for a lost teammate
+- Find a lost guideline
+- Deal with entanglement or entrapment
+- Make a safety stop
+
+While you can estimate the amount of gas needed to simply swim out of the cavern, there is no way to predict how much gas you would need to solve any of the problems listed above.
+
+> The best approach is to adhere to the Rule of Thirds or a more conservative plan.
+
+## Simple Turnaround Calulations
+
+Turnaround calculations have the potential to be exceedingly complex. Whenever possible, it makes sense to keep them as simple as possible.
+
+### When you can “keep it simple”
+
+There are two situations in which individual team members diving open circuit can do their own gas turnaround calculations, independent of other team members. These are:
+
+- Sidemount divers: If all team members are on sidemount, they can calculate their turnaround pressure independent of other team members. Why? Because, should they have a problem with one sidemount cylinder, they should be able to easily exit the cavern with the gas in the remaining cylinder.
+- Teams of three: Teams of three are considered the ideal cavern and cave diving team because, should one member suffer a catastrophic loss of gas, there will be two potential donors.
+
+Sample Rule of Thirds calculations
+
+When you can calculate your turnaround pressure independent of other team members, doing so becomes relatively easy. The steps are:
+
+- If your starting cylinder pressure is not already a number easily divisible by three, round it down to the next value that is.
+- Divide the rounded-down number by three. The result is your usable gas.
+- Subtract your usable gas value from your actual starting pressure. The result will be your turnaround pressure.
+
+[!image](/img/099.jpg)
+
+Remember:
+
+> The single biggest mistake divers make when calculating turnaround pressures is that they subtract their usable gas value from the rounded-down number, rather than from their actual starting pressure.
+
+Let’s look at some examples:
+
+Metric example: We’ll assume your starting pressure is 190 bar.
+
+- 190 is not easily divisible by three, so you round down to a value that is: 180 bar.
+- One-third of 180, or 60 bar, is your usable gas.
+- By deducting 60 from your actual starting pressure of 190 bar, you get a turnaround pressure of 130 bar.
+
+Imperial example: We’ll assume your staring pressure is 2,900 psi.
+
+- As 2,900 is not easily divisible by three, you round down to a value that is: 2,700 psi.
+- One-third of 2700, or 900 psi, is your usable gas.
+- By deducting 900 from your actual starting pressure of 2,900 psi, you get a turnaround pressure of 2,000 psi.
+
+## Simple Gas Matching
+
+The term gas matching refers to what you do when members of a buddy team have significantly differing starting gas volumes. An example would be when one diver is using a single cylinder while his or her buddy uses doubles.
+
+Let’s assume both divers begin a dive with the same starting pressure, follow the Rule of Thirds and hit their turnaround pressure simultaneously. At this point:
+
+- The diver in doubles has more than sufficient gas to get both himself and his buddy out of the cavern.
+- The diver in the single does not. In fact, he’s not even close.
+
+To deal with this, cavern divers can use the gas matching technique to establish the safest possible turnaround points.
+
+> When both buddies are using the same size cylinders, gas matching is only slightly more complex than it is when divers determine turnaround pressures independently of their teammates.
+
+The procedure is:
+
+- Start by identifying the controlling diver. As both divers are using the same size cylinder, this would be the diver with the lowest starting pressure.
+- The controlling diver then determines his usable gas as outlined above.
+- At this point, both divers subtract the controlling diver’s usable gas from their actual starting pressures to determine their individual turnaround pressures.
+
+**Metric example**: Francois is starting the dive with 240 bar; his buddy, Heinrich, has 170 bar, which makes Heinrich the controlling diver.
+
+- Following the procedure outlined above, Heinrich determines that his usable gas is one-third of 150 bar, or 50 bar.
+- At this point, both divers subtract Heinrich’s usable gas from their actual starting pressure. This gives Francois a turnaround pressure of 190 bar and Heinrich a turnaround pressure of 120 bar.
+
+What this means is that, at any point, either diver (theoretically) has sufficient gas to get himself and his buddy out of the cavern.
+
+**Imperial example**: Bob is starting the dive with 3,300 psi; his buddy, Justin, has 2,800 psi, which makes Justin the controlling diver.
+
+- Following the procedure outlined above, Justin determines that his usable gas is one-third of 2,700 psi, or 900 psi.
+- At this point, both divers subtract Justin’s usable gas from their actual starting pressure. This gives Bob a turnaround pressure of 2,400 psi and Justin a turnaround pressure of 1,900 psi.
+
+Again, this means that, at any point, either diver (theoretically) has sufficient gas to get himself and his buddy out of the cavern.
+
+## Dissimilar Cylinders
+
+Turnaround calculations can get complicated when teammates are using dissimilar cylinders—especially when using Imperial units of measure instead of metric. When buddies are using cylinders of different capacities, you can no longer base your turnaround calculations solely on starting pressure.
+
+If you want your calculations to be precise, you must account for the fact that the same pressure in two dissimilar cylinders does not mean the cylinders are of equal volume.
+
+The procedure is largely the same as before, with a few wrinkles:
+
+- Identify the controlling diver: This may not be the same as the diver with the lowest starting pressure, if that diver is using a substantially larger cylinder. You will need to do some math or look up values on a table.
+- The controlling diver determines his or her usable gas: This part is largely the same as before.
+- The non-controlling buddy converts this value to an equivalent pressure in his or her cylinder: More math required.
+
+Each team member subtracts his or her unique usable gas value from his or her actual starting pressure: This is the easy part.
+
+**Metric example**: Francois is using a single 15-liter cylinder and is starting the dive with 160 bar. His buddy, Heinrich, is using a single 12-liter cylinder filled to 180 bar.
+
+- To determine who is the controlling diver, each diver multiplies his cylinder capacity by his starting pressure in bar.
+- With a little over 2,100 liters to his partner’s 2,400 liters, Heinrich is the controlling diver—despite having the higher starting pressure.
+- Heinrich determines that his usable gas is one-third of 180 bar, or 60 bar. Multiplying 60 bar by 12 liters, this value also represents 720 liters of equivalent surface gas.
+- Francois determines that 720 liters is represented by 48 bar, making this his usable gas.
+- Each diver subtracts his usable gas value from his actual starting pressure. This makes Francois’ turnaround pressure 112 bar and Heinrich’s 120 bar.
+
+If this seems complex, check out the calculation using Imperial measurements.
+
+**Imperial example**: Bob is using a single high pressure 120 cubic foot cylinder and is starting the dive with 2,400 psi. His buddy, Dustin, is using a single high pressure 80-cubic foot cylinder filled to 3,300 psi.
+
+- To determine who the controlling diver is, each diver consults the table appearing in the Appendix.
+- With 77 cubic feet to his partner’s 84 cubic feet, Dustin is the controlling diver—despite having the higher starting pressure.
+- Dustin determines that his usable gas is one-third of 3,300 psi, or 1,100 psi. According to the table, this value also represents 26 cubic feet of gas.
+- Bob determines that in his cylinder, 26 cubic feet is represented by 700 psi, making this his usable gas.
+- Each diver subtracts his usable gas value from his actual starting pressure. This makes Bob’s turnaround pressure 1,700 psi and Dustin’s 2,200 psi.
+
+## Gas Matching for Cavern Diving
+
+At this point, you may be thinking, Is it really this complicated? It depends on whom you ask.
+
+- Some believe precise gas matching calculations are essential for all overhead-environment diving, even in caverns.
+- Others believe doing so makes things overly complicated, given the limited penetration distances associated with diving in caverns.
+
+Who is right? Consider the following:
+
+- Precise gas turnaround calculations can’t always be done prior to entering the water. If your cylinders have been sitting out in the hot sun, or lying overnight in near-freezing conditions, you may find your actual starting pressure changes by as much as 20 bar or 300 psi once your tanks adjust to water temperature. You won’t know for sure until you have been in the water for several minutes. For this reason, final turnaround calculations should be done after all other pre-dive checks are completed.
+- Dissimilar cylinder calculations require that you either have an equivalent volume table handy or you use a baseline multiplier value, which requires the ability to accurately multiply and divide.
+- When you factor in all the variables that come into play in a gas-sharing situation, many people believe that a disparity in starting volumes is only significant if it exceeds 15 to 20 percent or more. And that’s in caves, not caverns.
+- In cavern diving, we are primarily concerned with having sufficient reserve gas to solve problems such as being lost, entrapment or entanglement. As you read earlier in the chapter, the amount of gas required to simply exit the cavern is comparatively small—even if sharing gas with another diver.
+
+Given these factors, what should you do? Consider this:
+
+> Many divers believe complex gas calculations are not necessary for cavern diving.
+
+They assert that by using the Rule of Thirds calculation, cavern divers should have more than sufficient gas to deal with contingencies. There is no evidence to the contrary. Remember, this is only for cavern diving, not cave diving.
+
+You must decide which set of limits you want to follow. No one can do this for you.
+
+## Chapter 8 Summary
+
+- Always keep at least two-thirds of your starting gas volume in reserve to solve problems and then exit the cavern.
+- The single biggest mistake divers make when calculating turn pressures is that they subtract their usable gas value from the rounded-down number rather than from their actual starting pressure.
+- When both buddies are using the same size cylinders, gas matching is only slightly more complex than it is when divers determine turn pressures independently of their teammates.
+- If you want your calculations to be precise when using dissimilar cylinders, you have to account for the fact that the same pressure in two dissimilar cylinders does not mean the cylinders are of equal volume.
+- Some divers believe complex gas calculations aren’t necessary for cavern diving.
