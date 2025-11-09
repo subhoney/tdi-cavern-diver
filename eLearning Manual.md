@@ -120,6 +120,12 @@
     - [Psychological Stress](#psychological-stress)
   - [Chapter 13 Summary](#chapter-13-summary)
 - [Chapter 14: Problem Solving](#chapter-14-problem-solving)
+  - [Jammed Reels](#jammed-reels)
+  - [Light Failure](#light-failure)
+  - [Loss of Visibility](#loss-of-visibility-1)
+    - [Bump-and-Go](#bump-and-go)
+    - [Touch-Contact](#touch-contact)
+  - [Chapter 14 Summary](#chapter-14-summary)
 
 # Chapter 1: Introduction
 
@@ -1429,3 +1435,81 @@ Sources of psychological stress can include:
 - Sources of stress can be physiological or psychological, or both. Recognizing and quickly responding to stress is key to preventing problems.
 
 # Chapter 14: Problem Solving
+
+There are three problems cavern and cave divers may encounter that are more annoying than life threatening. However, if you fail to respond to them correctly, they could cause stress and, ultimately, panic.
+
+Here’s how to deal with them.
+
+## Jammed Reels
+
+Few things in cavern diving are more frustrating than a jammed reel.
+
+> It is not a matter of whether you will ever jam a reel, but simply when.
+
+With practice, you may be able to unjam a reel underwater. However, do not spend more than a minute or two attempting to do so. Be aware that loose guideline poses an entanglement risk to you and your teammates.
+
+If you are unable to unjam the reel within a minute or two, exit the cavern by wrapping the guideline around the outside of the locked-down reel.
+
+## Light Failure
+
+Should your primary light fail:
+
+- Immediately activate your backup light
+- Signal buddies
+- End the dive
+
+> If switching to a backup light, remember to activate it before unclipping it. This will enable you to find the light if you accidentally drop it.
+
+When exiting the cavern, put the affected diver in front, where other team members will have no difficulty seeing his or her weaker backup light.
+
+## Loss of Visibility
+
+If the visibility drops to the point where you risk losing sight of the guideline, abort the dive.
+
+Avoid silt-outs by using good buoyancy control and proper kicking technique. If you encounter a low-visibility situation beyond your control, exit the cavern before it becomes serious.
+
+If visibility becomes so bad you risk losing the guideline, make and maintain physical contact with it. The procedure is to make a locked-finger Okay around the line, wait for your teammates to join you, then exit the cavern.
+
+It is essential to maintain team cohesion while exiting in zero or near-zero visibility. There are two methods for maintaining team cohesion in zero or near-zero visibility: bump-and-go and touch-contact.
+
+### Bump-and-Go
+
+This is a natural extension of what happens when visibility gradually worsens, then improves.
+
+- The lead diver stops every 5-10 m/15-30 ft and waits for the next team member to “bump” him from behind. Keep one hand on the guideline and one hand outstretched.
+- Upon being “bumped” by the following diver, the lead diver then swims ahead another 5-10 m/15-30 ft.
+- If necessary, the second diver waits to be “bumped” by the third team member before continuing.
+- Communication, if needed, can be accomplished using the same signals as discussed next under touch-contact.
+
+### Touch-Contact
+
+The touch-contact method allows team members to remain in physical contact with one another at all times.
+
+- It starts by having all team members grasp the guideline with the same hand (right or left).
+- The team member in the rear then uses his free hand to grasp the diver ahead of him.
+- The lead diver keeps his or her free arm extended to avoid bumping into things.
+
+There are a number of special touch-contact signals divers need to know how to use, including:
+
+- Go
+- Stop (Hold)
+- I’m stuck/entangled
+- Emergency
+- Share air
+- We need to cross the line
+
+The line-crossing procedure associated with touch-contact is something your instructor will cover during the land drill portion of the course and you will practice both on land and in water.
+
+The chief benefit of touch-contact is that it allows team members to be in constant contact with one another. Drawbacks of the touch-contact method include:
+
+- It is complicated and time consuming (at a time when you really want to move).
+- It increases the potential for further silting.
+- It is not well suited for narrow passageways or places where the guideline zigzags from side to side (requiring repeated line crossings).
+
+Nevertheless, touch-contact may be preferable in situations where divers do not want to lose contact with one another, however briefly.
+
+## Chapter 14 Summary
+
+- Reel jams are common. It is not a matter of whether you will ever jam a reel, but simply when.
+- When switching to a backup light, remember to activate it before unclipping it. This will enable you to find the light if you accidentally drop it.
+- Avoid silt-outs by using good buoyancy control and proper kicking technique. If you encounter a low-visibility situation beyond your control, exit the cavern before it becomes serious.
