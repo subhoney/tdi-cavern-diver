@@ -126,6 +126,22 @@
     - [Bump-and-Go](#bump-and-go)
     - [Touch-Contact](#touch-contact)
   - [Chapter 14 Summary](#chapter-14-summary)
+- [Chapter 15: Serious Problems](#chapter-15-serious-problems)
+  - [Lost Diver](#lost-diver)
+  - [Lost Guidelines](#lost-guidelines)
+  - [Entanglement and Entrapment](#entanglement-and-entrapment)
+  - [Regulator, Valve or Manifold Failure](#regulator-valve-or-manifold-failure)
+    - [Regulator Free Flow](#regulator-free-flow)
+    - [Valve Roll Off](#valve-roll-off)
+  - [Total Loss of Gas](#total-loss-of-gas)
+  - [Chapter 15 Summary](#chapter-15-summary)
+- [Chapter 16: Lack of a Continuous Guideline to Open Water](#chapter-16-lack-of-a-continuous-guideline-to-open-water)
+  - [Gas Management Errors](#gas-management-errors)
+    - [Exceeding the Limits of the Breathing Mixture](#exceeding-the-limits-of-the-breathing-mixture)
+  - [Lack of Specialized Training](#lack-of-specialized-training)
+  - [Insufficient Number of Lights](#insufficient-number-of-lights)
+  - [The Five Rules of Accident Avoidance](#the-five-rules-of-accident-avoidance)
+  - [Chapter 16 Summary](#chapter-16-summary)
 
 # Chapter 1: Introduction
 
@@ -1513,3 +1529,219 @@ Nevertheless, touch-contact may be preferable in situations where divers do not 
 - Reel jams are common. It is not a matter of whether you will ever jam a reel, but simply when.
 - When switching to a backup light, remember to activate it before unclipping it. This will enable you to find the light if you accidentally drop it.
 - Avoid silt-outs by using good buoyancy control and proper kicking technique. If you encounter a low-visibility situation beyond your control, exit the cavern before it becomes serious.
+
+# Chapter 15: Serious Problems
+
+Here we discuss problems that are potentially life threatening.
+
+While all of these problems are serious, total loss of breathing gas is immediately life threatening.
+
+## Lost Diver
+
+If you discover that a team member is missing, and you have not yet hit your turnaround pressure, you can look for him or her. Before you begin your search, follow these steps:
+
+- Stop and think. Acting in haste leads to mistakes.
+- Check your SPG. Make sure you are still within the limit of Thirds.
+- Cover your light. This may enable you to see your missing buddy’s light in the distance.
+
+Do not turn your light off. The switch is the part of the dive light most likely to fail. If you turn your light off, you risk it failing. Instead, cover the light with your hand or hold the lens against your body.
+
+Assuming you still don’t see the missing diver:
+
+- Go to where you tied off your reel. If you have not yet tied off the reel, use the closest available tie-off point to do so. This will mark the place at which you realized your teammate was missing.
+- Using the tie off as a starting point, use your reel to search in the direction you think the missing diver headed.
+- As you search, do not exceed the limits of your training. Stay above 40 m/130 ft, be within 60 m/200 ft of air and keep the cavern entrance in sight at all times.
+- If you don’t immediately find the missing diver, try searching in a different direction.
+
+You will likely find your missing teammate quickly. If you can’t locate him or her after a short search, exit the cavern and get help.
+
+> If you must exit the cavern before locating a lost teammate, leave your reel and guideline in place for the missing diver to find.
+
+## Lost Guidelines
+
+Should you find yourself with no guideline in sight, the first thing you must do is Stop. Doing so helps ensure you won’t become even more lost. Next:
+
+- Sweep your light to look for your buddies or the guideline.
+- Cover your light to try and locate your teammates’ lights or the exit.
+
+You will likely see either your buddies, the guideline or the cavern entrance.
+
+- If you see your buddies, swim to them.
+- If you don’t see your buddies, but see the guideline, swim to it.
+- If you don’t see your buddies or the guideline, but see the exit, swim to it.
+- If you remain lost after looking for one minute, leave your present location and continue searching for your buddies, the guideline or the exit.
+- If lost off the guideline, the single most important thing you can do is tie off your safety reel or spool so that, should you not find your buddies, the guideline or the exit, you can return to your starting point and be no more lost than before.
+
+Tie off to the closest secure formation. If none is available, turn your backup light on, tie off to the backup light and bury it in the mud as an anchor.
+
+You might be searching in zero or near-zero visibility so, as you do:
+
+- Sweep your free hand up and down between the floor and as high up as you can reach. You may feel the lost guideline this way before you ever see it. Try to avoid stirring up more silt.
+- You may miss the guideline by passing under it. If you hit a wall, try moving up and back across the ceiling; there is a good possibility you may snare the guideline you are seeking with your reel.
+- If you are not successful in finding the guideline on your first attempt, return to your starting point and try a different direction.
+
+Assuming you do find the guideline, do not be tempted to go back and retrieve your safety reel or spool. As you will likely have buddies who are searching for you, lock down and wrap your safety reel/spool (which should be marked with your initials) around the guideline, but snap the clip to the guideline you found in the direction you intend to travel.
+
+> Never hesitate to leave reels or spools behind in bad visibility. You can always go back and get them when the visibility clears.
+
+## Entanglement and Entrapment
+
+These are different, yet similar problems. If you get stuck:
+
+- Get your teammates’ attention immediately—even if you think you can free yourself. This way, if you need assistance, it won’t be too late to signal your buddies.
+- Remember the entanglement signal: Crossed fingers moving in a Figure 8.
+- Don’t struggle. Make no more than one attempt to free yourself, then just relax and let your teammates free you.
+
+> When entangled or entrapped, it is often best to just relax and let your buddies free you.
+
+## Regulator, Valve or Manifold Failure
+
+There are a number of potential problems here, including:
+
+- A free-flowing regulator
+- A damaged or leaking manifold or H-valve
+- A valve roll off
+
+Although a failure of any of these items is not likely to cause an immediate loss of breathing gas, failure to respond immediately to the problem can result in loss of breathing gas in a matter of minutes.
+
+Dealing with regulator, valve or manifold failure may require the assistance of a teammate—which is why buddy awareness is so important when diving in overhead environments.
+
+### Regulator Free Flow
+
+The correct response here will depend on whether you have just a single regulator first stage, or two first stages on a set of sidemount cylinders, a dual-orifice manifold or an H-valve.
+
+If you have just a single first stage, there isn’t much you can do to stop the leakage. Although you could likely make it to the exit before exhausting your remaining gas, why take chances? Get on a buddy’s alternate-air-source and exit together.
+
+- If you have two first stages, and one is free flowing from its second stage, simply reach back and turn off the gas supply to the affected second stage, switch to the other second stage and exit the cavern.
+- Manifold or H-valve Damaged or Leaking
+
+This can include a failed regulator-to-valve connection, a failed burst disk or tank-neck o-ring, a burst hose or damage to the valve or manifold itself. The problem here is that it’s all happening behind you, making it difficult to determine exactly what the problem is and how to solve it.
+
+This is why we dive with buddies. In this situation, a buddy can:
+
+- Identify the problem.
+- Shut down the valve that will keep gas loss to a minimum.
+
+> Your buddy can also tell you which second stage to breathe from on the way out.
+
+If diving sidemount, you can obviously manage this sort of problem yourself, secure in the knowledge that the unaffected cylinder has more than sufficient gas to get you out of the cavern.
+
+### Valve Roll Off
+
+This is a problem chiefly associated with dual-orifice manifolds — but it can happen with other configurations. With manifolds, frequent contact with the ceiling can cause the left-hand turn wheel to roll to the off position. And, because divers generally breathe from the regulator on the right-hand post, the fact it has rolled off may not be immediately apparent.
+
+Still, there are warning signs, including:
+
+- A pressure gauge needle that does not move.
+- Loss of gas flow to a BC or dry suit inflator hose connected to the left post regulator.
+
+Responding to this problem is easy. Simply reach back and turn the affected valve back on again—a skill you should practice at the beginning of each dive. However, prevention is a better problem solver.
+
+## Total Loss of Gas
+
+It is unlikely that a diver who regularly monitors his or her pressure gauge will simply run out of air without warning. More likely causes of loss of breathing gas include:
+
+- Lost mouthpiece.
+- Isolator accidentally closed, draining one side of doubles prematurely.
+- Failure to respond quickly or correctly to manifold/valve failure.
+- Being the first buddy to run out of air after the team becomes lost or separated.
+
+Loss of breathing gas is the only true cavern and cave diving emergency. This is a critical situation requiring an immediate response.
+
+In some instances, total loss of breathing gas can be addressed simply by switching to the non-affected second stage. Examples include:
+
+- Lost mouthpiece.
+- Isolator accidentally closed.
+
+If switching second stages will not solve the problem, immediate buddy assistance is required.
+
+- The affected diver signals Attention!/Out of Air!
+- The donor must quickly pass his long-hose second stage. Make sure the second stage is passed right side up, with the purge button unblocked.
+- Once the second stage is passed, deploy the full length of the long hose.
+- The receiver should generally take up a position in front of the donor, holding on to the regulator hose with one hand to help prevent it from accidentally being pulled from his mouth.
+- Assuming good visibility, the donor should hold onto the receiver by the upper arm, thus enabling the donor to signal using the touch-contact protocols.
+- If visibility remains good, there is no need to slow the exit down by maintaining physical contact with the guideline.
+
+In zero or near-zero visibility, and assuming the donor has passed a 1.5 m/5.0 ft or longer hose, there is a variation on touch-contact that will still enable divers to exit quickly, while causing minimal silting.
+
+- The receiver Okays the guideline using the same hand with which he is holding on to the donor’s long hose.
+- The donor takes up a position immediately behind the receiver and also Okays the guideline with one hand.
+- Because the divers are physically connected by the long hose, there is no reason for the donor to hold on to the receiver’s arm to prevent buddy separation.
+- Touch-contact signals can be exchanged as needed, by reaching out and touching the receiver’s leg.
+- In this position, there is also no need to go through a complex, time-consuming process to cross guidelines. The receiver simply moves the long hose and guideline back and forth from one hand to the other as needed and the donor follows suit.
+
+If using a standard sport-diving regulator, with a comparatively short alternate-air-source hose, your options are more limited. You will most likely need to take up a position on either side of the guideline. Fortunately, as a cavern diver you should not have passed through any restrictions and should have little difficulty exiting.
+
+## Chapter 15 Summary
+
+- If you need to exit the cavern before locating a lost teammate, leave your reel and guideline in place for the missing diver to find.
+- If lost off the guideline, the single most important thing you can do is tie off your safety reel or spool so that, should you not find your buddies, the guideline or the exit, you can return to your starting point and be no more lost than before.
+- When entangled or entrapped it is often best to just relax and let your buddies free you.
+- How you deal with regulator, valve or manifold failure may require the assistance of a teammate—which is why buddy awareness is so important when diving in overhead environments.
+- Loss of breathing gas is the only true cavern and cave diving emergency. This is a critical situation requiring an immediate response.
+
+# Chapter 16: Lack of a Continuous Guideline to Open Water
+
+Underwater caverns and caves are generally not comprised of a single, easy to follow conduit. Instead, they are often a maze of interconnecting tunnels. Seldom does the way out resemble the way in.
+
+Additionally, the presence of an easily disturbed layer of silt can reduce visibility, making it difficult to see the cavern exit.
+
+> A continuous guideline secured to the cavern or cave entrance allows divers to safely find their way out regardless of factors such as reduced visibility.
+
+In many overhead-environment fatalities, the divers had sufficient breathing gas to exit from their maximum point of penetration; however, without a continuous guideline they failed to find the exit before running out of breathing gas.
+
+## Gas Management Errors
+
+as management errors have caused divers to run out of breathing gas before reaching the exit. Cavern and cave diving requires gas management practices different from open-water diving.
+
+To have sufficient breathing gas to exit the cavern or cave, divers must keep at least two-thirds of their starting gas supply in reserve.
+This is known as the Rule of Thirds.
+
+### Exceeding the Limits of the Breathing Mixture
+
+Simply stated, what you breathe can kill you.
+
+> Exceeding the safe operational limits of the breathing mixture can be fatal.
+
+This typically involves diving below 40 meters/130 feet on air, where factors such as nitrogen narcosis, carbon dioxide build-up, oxygen toxicity and rapid gas consumption can all contribute to diver fatalities.
+
+## Lack of Specialized Training
+
+While most cavern or cave diving fatalities result from one or more of the three direct causes outlined previously, there are also two contributing causes that can lead to a cavern diving fatality. The first of these is lack of specialized training.
+
+> A significant number of cavern or cave diving fatalities involve those who had no training in overhead-environment diving.
+
+Divers who lack this training will not have the knowledge, experience and skills necessary to avoid the three direct causes of cavern and cave diver fatalities.
+
+Investigations of fatalities involving certified cavern or cave divers indicate that exceeding the limits of their training was a contributing factor.
+
+## Insufficient Number of Lights
+
+Modern dive lights are highly reliable but can still fail. Loss of light means loss of visibility.
+
+> Failure to carry an adequate number of lights is identified as a contributing factor in the deaths of divers who also lacked formal cavern or cave diver training.
+
+Trained cavern and cave divers know they must have at least three sources of light per person.
+
+- Cave divers carry at least one primary and two backup lights.
+- Cavern divers carry at least two lights.
+
+Because cavern divers remain within sight of daylight, the sun counts as the primary light source.
+
+## The Five Rules of Accident Avoidance
+
+The three direct and two contributing causes of cavern and cave diver fatalities make up the Five Rules of Accident Avoidance. There are:
+
+1. Be trained and certified for cavern or cave diving and remain within the limits of your training and experience.
+1. Maintain a continuous guideline leading to the cavern or cave entrance.
+1. Remain within the safe operating (depth) limits of your breathing mixture.
+1. Keep at least two-thirds of your starting gas supply in reserve to exit.
+1. Have at least three sources of light per diver.
+
+## Chapter 16 Summary
+
+- A continuous guideline secured to the cavern or cave entrance allows divers to safely find their way out.
+- To have sufficient breathing gas to exit a cavern or cave, divers must keep at least two-thirds of their starting gas supply in reserve.
+- Exceeding the safe operational limits of your breathing mixture can prove fatal.
+- A significant number of cave or cavern diver fatalities involve those who had no formal training in overhead-environment diving.
+- Failure to carry an adequate number of lights is identified as a contributing factor in the deaths of divers who also lacked formal cavern or cave diver training.
