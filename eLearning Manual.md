@@ -56,6 +56,15 @@
   - [Cutting Tools](#cutting-tools)
   - [Line Markers](#line-markers)
   - [Chapter 6 Summary](#chapter-6-summary)
+- [Chapter 7: Planning](#chapter-7-planning)
+  - [Sequence](#sequence)
+  - [Air](#air)
+  - [Depth](#depth)
+  - [Time](#time)
+  - [Distance](#distance)
+  - [Direction](#direction)
+  - [The Golden Rule of Cavern Diving](#the-golden-rule-of-cavern-diving)
+  - [Chapter 7 Summary](#chapter-7-summary)
 
 # Chapter 1: Introduction
 
@@ -714,3 +723,85 @@ Non-directional markers are to be used when you are either unsure of the directi
 - The stainless steel bolt snap is ideal for cave and cavern use.
 - The line cutter is the preferred cutting tool for cavern and cave diving.
 - Line markers fall into one of two categories: directional and non-directional.
+
+# Chapter 7: Planning
+
+Every cave diving plan includes six components that also apply to most cavern dives. These are:
+
+- Sequence
+- Air
+- Depth
+- Time
+- Distance
+- Direction
+
+## Sequence
+
+A tenet of cavern and cave diving is that we stay together. We do not leave a teammate behind. Cave and cavern divers plan for and adhere to a predefined sequence:
+
+- The first diver in is the team leader. He or she is responsible for installing and retrieving the reel. The team leader is the first diver in and the last diver out.
+- The last diver in brings up the rear going in, but leads the way going out.
+- If there is a third diver in the team, that diver remains in the middle both entering and exiting.
+
+On simple, linear (in-and-out along the same route) dives, when cave divers “call” the dive, each team member maintains his or her position, turning in place so that the last person in now leads the way out.
+
+- Cavern diving differs from cave diving in that cave divers spend the vast majority of their time either entering or exiting. They remain in the pre-planned sequence the entire time.
+- In contrast, cavern divers will typically run their reel into the cavern, tie off near the back of the cavern, then either explore in the immediate vicinity of the reel, or back and forth along the guideline. At some point, they may untie the reel and move it to another point in the cavern.
+
+> Any time a team is in motion, either entering or exiting the cavern, team members must remain in sequence, the same as cave divers.
+
+This is especially important in poor visibility, where failure to remain in sequence can result in leaving a team member behind. It falls to the team leader to ensure that he or she never “pulls” a reel without first making sure that every team member is present and accounted for and is exiting the cavern ahead of the team leader.
+
+## Air
+
+Cave divers adhere to the principle that, at any point during the dive, each diver needs to have twice the gas he or she theoretically needs to exit.
+
+> Cavern divers follow the same principle as cave divers, keeping at least two-thirds of their starting gas volume in reserve to exit the cavern.
+
+## Depth
+
+In most instances, you will know the maximum depth of the cavern you are entering before the dive. As long as that depth is within normal cavern diving limits, and the training and experience of each team member, no problem. However,
+
+> If the depth of the cavern exceeds the limits of any team member, your plan must include a maximum allowable depth, which no team member will exceed.
+
+Depth will also impact your allowable No-Decompression Limit (NDL). In most instances, cavern divers have little difficulty staying well within NDLs. Remember: Every cavern dive must be a no-decompression dive.
+
+## Time
+
+In most instances, it is likely you and your team members will be exiting the cavern well before nearing your no-deco limit, but no-deco time may become an issue in deeper caverns.
+
+> If the depth of the cavern increases the possibility of exceeding a no-decompression limit, you must include a time limit as part of your dive plan.
+
+Again, every cavern dive must be a no-decompression dive.
+
+## Distance
+
+The general standard of practice for cavern diving is to limit penetration to 60 m/200 ft. This is measured from the surface, rather than from the cavern entrance.
+
+In most caverns, you can’t exceed this distance without either hitting a wall or losing sight of the entrance. There are, however, caverns that are so large you can exceed this limit and still have the entrance clearly in sight.
+
+> If a cavern is so large that there is a risk of accidentally exceeding the maximum penetration distance for cavern diving, your plan must include a landmark that team members agree they will not go past.
+
+## Direction
+
+In smaller caverns, this may not be an issue. There will be only one way in and one direction you can go. Larger caverns, however, may have multiple entrances and/or a choice of which direction you can go after entering.
+
+> In caverns of a certain size, your dive plan may need to include which entrance you will use and which route you will follow after entering.
+
+## The Golden Rule of Cavern Diving
+
+Although not generally listed as part of your dive plan, there is an implied limitation included in every cavern or cave dive:
+
+> Any team member can “call” any dive, at any time and for any reason.
+
+Each team member must be assured he or she can terminate a dive at any time without being overruled or criticized by fellow team members.
+
+## Chapter 7 Summary
+
+- Any time the team is in motion, either entering or exiting the cavern, they need to remain in sequence, the same as cave divers.
+- Cavern divers follow the same principle as cave divers, keeping at least two-thirds of their starting gas volume in reserve to exit the cavern.
+- If the depth of the cavern exceeds the limits of any team member, your plan must include a maximum allowable depth, which no team member will exceed.
+- If the depth of the cavern increases the possibility of exceeding a no-decompression limit, you must include a time limit as part of your dive plan.
+- If a cavern is so large that there is a risk of accidentally exceeding the maximum penetration distance for cavern diving, your plan must include a landmark that team members agree they will not go past.
+- In caverns of a certain size, your dive plan may need to include which entrance you will use and which route you will follow after entering.
+- Any team member can “call” any dive, at any time and for any reason.
