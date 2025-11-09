@@ -82,6 +82,12 @@
   - [Tables](#tables)
   - [Chapter 9 Summary](#chapter-9-summary)
 - [Chapter 10: Buoyancy, Trim and Propulsion](#chapter-10-buoyancy-trim-and-propulsion)
+  - [The Importance of Buoyancy and Trim](#the-importance-of-buoyancy-and-trim)
+    - [Trim](#trim)
+  - [Modified Flutter Kick](#modified-flutter-kick)
+  - [Frog Kick](#frog-kick)
+  - [Pulling](#pulling)
+  - [Chapter 10 Summary](#chapter-10-summary)
 
 # Chapter 1: Introduction
 
@@ -1061,3 +1067,71 @@ This is most likely to happen in caverns with depths exceeding 20 m/65 ft.
 - If Depth and Time values are important enough to be part of your original dive plan, you need to also review them before starting the dive.
 
 # Chapter 10: Buoyancy, Trim and Propulsion
+
+If you ask most divers what sets cavern and cave divers apart from most others, you are likely to hear “excellent buoyancy control and trim.” This is because buoyancy and trim have a direct bearing on visibility and, thus, safety.
+
+You will also hear people talk about the propulsion techniques cavern and cave divers use. The standard flutter kick entry-level divers learn does not work well in caverns and caves. It tends to disturb silt and can lead to environmental damage.
+
+We will cover both of these issues in this chapter.
+
+## The Importance of Buoyancy and Trim
+
+This course places emphasis on perfecting buoyancy control and trim. Why?
+
+- Buoyancy and trim are keys to preserving good visibility and protecting a fragile environment.
+- We know this is true for every form of diving, but it is especially true of cavern and cave diving.
+
+Loss of visibility can be a contributing factor in accidents.
+
+With few exceptions, divers in caverns and caves must maintain neutral buoyancy. Maintaining neutral buoyancy takes precedence over most other tasks, such as running reels and guidelines.
+
+### Trim
+
+The ideal body position for cavern diving is to have your knees and shoulders in line with one another, on the same horizontal plane.
+
+[!image](/img/124.jpg)
+
+Your feet and fins should be above this horizontal plane. The benefits of maintaining good body position include:
+
+- Improved streamlining
+- Efficient movement
+- Avoiding guideline entanglement
+
+Problems with maintaining ideal body position may be resolved by adjusting or repositioning equipment. This often includes redistributing your weights.
+
+## Modified Flutter Kick
+
+Sport divers are often taught to keep their knees and ankles straight when performing the flutter kick. Cave and cavern divers use a modified flutter kick.
+
+> The modified flutter kick used in cave and cavern diving involves kicking with bent knees and ankles and keeping the feet/fins above the plane of the body.
+
+[!image](/img/125.jpg)
+
+The modified flutter kick is easy to master and is useful in moderate- or low-flow conditions.
+
+## Frog Kick
+
+Another popular kick used by cavern and cave divers is the frog kick.
+
+> The frog kick is similar to the swimming motion used by a frog.
+
+[!image](/img/126.jpg)
+
+The frog kick is a good anti-silting technique. However, it is not recommended when near fragile formations. When swimming long distances, alternate between the frog kick and modified flutter kick to avoid cramping.
+
+## Pulling
+
+The third popular propulsion technique is pulling, which is also referred to as pull and glide.
+
+> Pulling on strategically selected handholds may be the only effective way to move when in high-flow conditions.
+
+This technique is recommended when in small areas, regardless of flow, to avoid fin contact with the walls, floor and ceiling. When you are pulling, your feet and legs should remain still.
+
+As a rule, when pulling, use handholds already used by others. The idea is to leave as much of the cavern untouched as possible.
+
+## Chapter 10 Summary
+
+- Buoyancy and trim are keys to preserving good visibility and protecting a fragile environment.
+- The modified flutter kick used in cave and cavern diving involves kicking with bent knees and ankles along with keeping the feet/fins above the plane of the body.
+- The frog kick is similar to the swimming motion used by a frog.
+- Pulling on strategically selected handholds may be the only effective way to move when in high-flow conditions.
