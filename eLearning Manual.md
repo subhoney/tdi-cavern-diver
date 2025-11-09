@@ -31,6 +31,18 @@
   - [Restrictions](#restrictions)
   - [Line Traps](#line-traps)
   - [Chapter 4 Summary](#chapter-4-summary)
+- [Chapter 5: Equipment](#chapter-5-equipment)
+  - [Mask, Snorkel, and Fins](#mask-snorkel-and-fins)
+    - [Masks and Snorkels](#masks-and-snorkels)
+    - [Fins](#fins)
+      - [Avoiding strap problems](#avoiding-strap-problems)
+  - [Exposure Suits](#exposure-suits)
+    - [Exposure suit accessories](#exposure-suit-accessories)
+  - [Regulators](#regulators)
+  - [Alternate-Air-Source Configuration](#alternate-air-source-configuration)
+  - [BC Air Cell, Harness and Weight System](#bc-air-cell-harness-and-weight-system)
+  - [Instrumentation](#instrumentation)
+  - [Chapter 5 Summary](#chapter-5-summary)
 
 # Chapter 1: Introduction
 
@@ -364,3 +376,146 @@ When running reels, check behind you frequently to ensure your guideline has not
 - Siphons are often associated with poor visibility. Siphoning can make it difficult or impossible to exit a cavern.
 - A restriction is a passage or opening too narrow for divers to pass through side by side.
 - Line traps are dangerous because they prevent divers from exiting the cavern using the guideline. The ability to follow a guideline is critically important in low visibility.
+
+# Chapter 5: Equipment
+
+In this course we will determine if your current open-water gear is suitable for cavern diving and, if so, what modifications may be required before using it in overhead environments.
+
+Equipment used for single-cylinder diving in open water can be modified for cavern diving. Specialized equipment including backmount or sidemount double cylinders or closed-circuit rebreathers (CCRs) can also be used for cavern diving.
+
+If you intend to use backmount or sidemount doubles during the Cavern Diver course, you must already be properly trained to do so.
+
+> Cavern diving equipment must meet specific objectives.
+
+These objectives include:
+
+- Securing or removing any dangling equipment that could cause entanglement, disturb silt or damage fragile cave formations.
+- Eliminating unnecessary accessory items.
+- Making critical equipment items instantly accessible by feel.
+- Equipping for a streamlined and properly trimmed body position in the water.
+
+## Mask, Snorkel, and Fins
+
+The mask and fins you already own will likely be suitable for cavern diving.
+
+### Masks and Snorkels
+
+> Nearly any mask that fits well is suitable for cavern diving.
+
+Snorkels are not used for cavern diving because they are an entanglement risk and are useless in overhead environments.
+
+Most cave and technical divers carry a backup mask that can be stowed in a pocket.
+
+### Fins
+
+Only open-heel scuba fins are adequate for cavern diving. They must be designed to allow specialized propulsion techniques used by cavern divers to avoid silting.
+
+Split and hinged fins generally do not work well when doing the frog kick, helicopter turn, or modified flutter kick used by cavern divers to avoid silting.
+
+#### Avoiding strap problems
+
+Loose or dangling straps are a guideline entanglement hazard.
+
+> Mask and fins straps must be secured.
+
+Before easily adjustable, quick-release fin strap buckles were developed, cavern and cave divers taped the loose ends of fin straps so that they could not snare the guideline. This isn’t necessary with most modern fins.
+
+A better alternative is to use spring or elastic heel straps. These are standard on most technical diving fins and available as an after-market accessory for most others.
+
+A good way to rid your mask of loose strap ends is to replace it with a neoprene strap that has no loose ends. Another approach is to wear your mask strap under your hood. Doing this also helps prevent mask loss.
+
+## Exposure Suits
+
+Hypothermia is a potentially dangerous drop in body temperature usually caused by prolonged exposure to cold temperatures. Choosing the right exposure protection is important.
+
+Factors to consider when selecting exposure protection include surface temperature, water temperature, length of exposure and depth.
+
+A full-length exposure suit is essential in nearly all cavern environments. This is typically a 5-mm or thicker wetsuit. As temperatures drop below 24° C/75? F, a dry suit might be a better option.
+
+### Exposure suit accessories
+
+Hoods: A well-fitting hood is an important exposure protection accessory.
+
+Thigh pockets: BC and harness-mounted pockets tend to have limited capacity and may be hard to access. Thigh pockets found on most dry suits have greater capacity and are easier to use. You can easily add thigh pockets to most wetsuits.
+
+## Regulators
+
+Here we will discuss using a normal sport-diving regulator attached to a single cylinder.
+
+If using a single regulator first stage, it must be capable of supplying gas to two divers at depth.
+
+A gas-sharing situation at depth puts considerable demand on a first stage.
+
+## Alternate-Air-Source Configuration
+
+A conventional sport-diving regulator system can be easily modified for cavern diving. It usually features:
+
+- A short primary second stage hose.
+- A slightly longer alternate-air-source second stage hose.
+- An equally long high-pressure hose ending in an instrument console.
+
+The sport-diving equipment configuration shown here has inherent drawbacks for cavern use, including:
+
+- The longer alternate-air-source second stage can be harder to locate and pass quickly to an out-of-air diver.
+- It is easy to accidentally pass the alternate upside down, which can cause the recipient to inhale water, adding to panic.
+- As usually configured, the alternate-air-source hose presents a snagging risk.
+- Although you can use a conventional alternate-air-source second stage for cavern diving, consider switching to a primary second stage with a long hose for gas sharing.
+
+The equipment configuration shown here offers several benefits, including:
+
+- It allows you to pass the primary second stage to a distressed diver, allowing you to initiate gas sharing faster.
+- Your natural wrist motion when passing a primary second stage tends to keep it right-side up.
+- While many conventional “octopus” second stages are not designed for ease of breathing, your primary second stage should offer excellent performance. This is exactly what an out-of-gas diver needs.
+- Because your backup second stage is worn on a necklace, it stays within easy reach.
+
+This configuration is streamlined and reduces the risk of snagged hoses.
+
+Inflator hoses that feature integrated regulators, which also suppose a potential donor will be passing his or her primary second stage, offer many of the same benefits. However, if not secured properly, the inflator hose may present an entanglement risk.
+
+## BC Air Cell, Harness and Weight System
+
+Cavern divers must equip and train to avoid silting.
+
+> Your buoyancy compensator (BC) air cell, harness and weight system must be configured to help you maintain proper horizontal trim.
+
+Modern weight-integrated BCs, especially those with trim weight pockets located on the upper portion of the BC, are preferred over traditional weight belts worn on the waist because the weights can be distributed along your body’s natural balance point.
+
+Many students use the Cavern Diver course as an opportunity to switch to a harness and air cell system commonly used by cavern and cave divers. The benefits of these systems include:
+
+- The back-mounted air cell may help in maintaining proper trim. Users can switch to air cells of different sizes.
+- Modular systems make it possible to reposition D-rings or add accessories such as weight pockets.
+- Many modular systems allow the same harness to be adapted for use with doubles or sidemount.
+
+If your ultimate goal is to progress to cave or tech diver training, consider investing in a modular harness and air cell system.
+
+## Instrumentation
+
+Just as in open water, your dive data must be readily accessible when cavern diving.
+
+Your instrumentation needs to include a means of monitoring depth, time, no-decompression status and cylinder pressure.
+
+Minimum instrumentation for cavern diving includes:
+
+- A submersible pressure gauge (SPG) calibrated in either 10-bar or 100-psi increments. This is crucial for dive planning and gas management.
+- A means of monitoring both depth and time, such as a dive computer or depth gauge and timer.
+
+Additionally:
+
+- If you have a gas-integrated dive computer that reads cylinder pressure, plan to back it up with a mechanical gauge.
+- Do not rely on a single means of monitoring depth, time, and no-decompression status. This means equipping with a backup dive computer or dive tables.
+- Instruments such as thermometers and compasses have little value in cavern diving.
+- All equipment must be attached securely to the diver’s BC or harness. Dangling gear is an entanglement hazard.
+
+Most cave and technical divers avoid using a multi-gauge instrument console, relying instead on a mechanical SPG on a relatively short high-pressure hose. They use wrist-mounted dive computers and depth gauge/timers.
+
+## Chapter 5 Summary
+
+- Cavern diving equipment must meet specific objectives.
+- Nearly any mask used for open-water diving is suitable for cavern diving.
+- Mask and fin straps must be secured to prevent possible snagging.
+- Snorkels are not used for cavern diving because they are an entanglement risk and are useless in overhead environments.
+- Factors to consider when selecting exposure protection include surface temperature, water temperature, length of exposure and depth.
+- If using a single regulator first stage, it must be capable of supplying gas to two divers at depth.
+- Although you can use a conventional alternate-air-source second stage for cavern diving, consider switching to a primary second stage with a long hose for gas sharing.
+- Your BC air cell, harness and weight system must be configured to help you maintain proper horizontal trim.
+- Your instrumentation needs to include a means of monitoring depth, time, no-decompression status and cylinder pressure.
