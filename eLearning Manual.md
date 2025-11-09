@@ -142,6 +142,21 @@
   - [Insufficient Number of Lights](#insufficient-number-of-lights)
   - [The Five Rules of Accident Avoidance](#the-five-rules-of-accident-avoidance)
   - [Chapter 16 Summary](#chapter-16-summary)
+- [Chapter 16: Continuing Education](#chapter-16-continuing-education)
+  - [Scuba Diving International (SDI)](#scuba-diving-international-sdi)
+    - [Advanced Adventure](#advanced-adventure)
+    - [Computer Nitrox](#computer-nitrox)
+    - [Rescue Diver](#rescue-diver)
+  - [Technical Diving International (TDI)](#technical-diving-international-tdi)
+    - [Sidemount Diver](#sidemount-diver)
+    - [Intro to Tech](#intro-to-tech)
+    - [Intro to Cave](#intro-to-cave)
+    - [Full Cave](#full-cave)
+    - [TDI Nitrox](#tdi-nitrox)
+    - [Advanced Nitrox](#advanced-nitrox)
+    - [Decompression Procedures](#decompression-procedures)
+    - [Advanced Wreck Diver](#advanced-wreck-diver)
+  - [Emergency Response Diving International (ERDI)](#emergency-response-diving-international-erdi)
 
 # Chapter 1: Introduction
 
@@ -1745,3 +1760,67 @@ The three direct and two contributing causes of cavern and cave diver fatalities
 - Exceeding the safe operational limits of your breathing mixture can prove fatal.
 - A significant number of cave or cavern diver fatalities involve those who had no formal training in overhead-environment diving.
 - Failure to carry an adequate number of lights is identified as a contributing factor in the deaths of divers who also lacked formal cavern or cave diver training.
+
+# Chapter 16: Continuing Education
+
+A good diver never stops learning. As you complete your Cavern Diver course, it’s normal to ask, What’s next? Here are some suggestions.
+
+## Scuba Diving International (SDI)
+
+SDI is the sport-diving arm of International Training. There are several SDI courses that every serious cavern diver should consider.
+
+### Advanced Adventure
+
+Additional training past entry-level helps you get more out of any Specialty Diver course. Cavern Diver is no exception. The SDI Advanced Adventure course provides an introduction to Deep Diving and Underwater Navigation, plus three more specialties of your choosing.
+
+### Computer Nitrox
+
+Nitrox can extend your available bottom time. There is a good possibility your potential cavern diving buddies will all be certified to use nitrox, and they will be looking for teammates whose available bottom time matches their own.
+
+The SDI version of the Nitrox Diver course emphasizes the use of personal dive computers to track both oxygen and nitrogen exposure. As such, it is simple and easy to understand.
+
+### Rescue Diver
+
+The SDI Rescue Diver Course is designed to develop the knowledge and necessary skills to effectively perform diver rescues and assist and administer the necessary first aid in the event of an emergency. You will learn skills such as how to perform self-rescue, buddy rescues, recognize and calm potential panicked divers, administer proper first aid to divers that have experienced dive-related injuries, conduct effective search patterns and manage accident scenes.
+
+## Technical Diving International (TDI)
+
+If you are reading this, you are no doubt already familiar with TDI, the world’s leading technical diver training organization. Your opportunities for training as a TDI Diver include additional courses designed to advance your Cavern Diver skills.
+
+### Sidemount Diver
+
+Sidemount is the configuration of choice for an increasing number of overhead-environment divers. Developed for cave divers and optimized for cave diving, it’s the course many divers take prior to or in conjunction with Cavern and Cave Diver training.
+
+### Intro to Tech
+
+Many instructors teach the Intro to Tech course in combination with Cavern Diver. The skills overlap, but the knowledge goes well beyond Cavern Diver in terms of preparing students for further technical training.
+
+### Intro to Cave
+
+This is the next step past Cavern Diver for students looking to progress to Full Cave Diver certification. Emphasis is on making limited penetrations along the main line while staying within the no-decompression limits.
+
+### Full Cave
+
+This course is the third stage of overhead-environment training in the series of TDI’s Full Cave Diver Development Program. Advanced cave dive planning, practical execution of different types of cave systems and scenarios divers encounter are presented.
+
+### TDI Nitrox
+
+The TDI Nitrox Diver course is perfect for those wanting a more comprehensive introduction to nitrox diving. It covers using Equivalent Air Depths (EADs) in conjunction with dive tables, and tracking “CNS Clock” exposures.
+
+### Advanced Nitrox
+
+For even more comprehensive Nitrox Diver training, the TDI Advanced Nitrox course covers the use of nitrox mixtures with oxygen concentrations up to and including pure oxygen. It should be considered an important prerequisite for students planning to take CCR or Decompression Procedures training.
+
+### Decompression Procedures
+
+Diving at the Full Cave Diver level invariably involves decompression. For this reason, many Full Cave students take both the Advanced Nitrox and Deco Procedures courses either before or in conjunction with Full Cave Diver.
+
+By themselves, Advanced Nitrox and Deco Procedures can help prepare you for activities such as deep ocean wreck diving and other non-overhead technical diving activities.
+
+### Advanced Wreck Diver
+
+This course involves limited wreck penetration. The Cavern Diver course can meet one of its prerequisites.
+
+## Emergency Response Diving International (ERDI)
+
+ERDI is a Public Safety Diving (PSD) agency that trains police, fire, and other public safety organizations in search and rescue techniques that apply to almost any submerged environment. ERDI trains departments on how to make and maintain PSD teams and is the only public safety dive training agency that has its own insurance and endorses its own standards. In fact, some of the largest, most successful and renowned public safety departments use ERDI training programs to conduct training.
