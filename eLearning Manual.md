@@ -113,6 +113,13 @@
     - [Slow Down](#slow-down)
   - [Other Means of Communication](#other-means-of-communication)
   - [Chapter 12 Summary](#chapter-12-summary)
+- [Chapter 13: Panic and Stress](#chapter-13-panic-and-stress)
+    - [Panic](#panic)
+  - [Stress](#stress)
+    - [Physiological Stress](#physiological-stress)
+    - [Psychological Stress](#psychological-stress)
+  - [Chapter 13 Summary](#chapter-13-summary)
+- [Chapter 14: Problem Solving](#chapter-14-problem-solving)
 
 # Chapter 1: Introduction
 
@@ -1366,3 +1373,59 @@ Another means of communication is called touch-contact communication. This is an
 - Light signals are among the easiest and most efficient to use.
 - To use hand signals, divers must first be facing one another. This may involve using the Attention light signal so that everyone in the team looks in the direction of the signaler.
 - If divers must resort to using slates or wet notes to communicate with one another it may indicate a situation that dictates terminating the dive.
+
+# Chapter 13: Panic and Stress
+
+- We start by discussing panic, which can contribute to fatalities in underwater caverns and caves.
+- We then examine several sources of physiological and psychological stress, including the cumulative effect of too much stress.
+
+### Panic
+
+Panic is a sudden response to fear, stress, pain or other stimuli associated with danger that is strong enough to prevent logical thinking and rational action. Panic can prove fatal to divers in caverns and caves.
+
+> The only reliable way to overcome panic is to prevent it from occurring in the first place.
+
+Effective ways to prevent panic include:
+
+- Thorough planning
+- Pre-dive visualization
+- Clear communication
+- Overlearning skill
+- Early recognition and management of stress
+
+## Stress
+
+A certain amount of stress can be beneficial, provided it prevents complacency and keeps you alert. Too much stress, however, causes problems.
+
+Stress can be physiological or psychological, or both. Recognizing and quickly responding to stress is the key to preventing problems.
+
+Let’s take a look at stressors common to cavern and cave diving.
+
+### Physiological Stress
+
+Sources of physiological stress can include:
+
+- Cold: Cold can lead to discomfort, degradation of motor skills and perceptual narrowing. This is why adequate thermal protection is vital.
+- Exertion: Exhausted divers tend not to think clearly. They may even succumb to the fear that they will not be able to “keep up” and, thus, be left behind. Avoid exhaustion by pacing yourself and by signaling team members to Slow Down if necessary.
+- Illness: Dive only when feeling well. Never be afraid to cancel or abort a dive if you feel ill.
+- Injury: Physical pain reduces a diver’s ability to focus and can cause anxiety.
+- Poorly fitting equipment: Ill-fitting gear is a distraction that can prove dangerous.
+- Narcosis: Diving beyond the safe operational limits of your breathing gas can contribute to fatal accidents. Narcosis inhibits rational thinking and behavior.
+
+### Psychological Stress
+
+Sources of psychological stress can include:
+
+- Time pressure: Cavern and cave divers have limited breathing gas supplies, meaning they also have limited time for resolving problems. This can cause time stress.
+- Peer pressure: Peer pressure happens when well-meaning buddies insist a diver makes a dive when he or she isn’t up for it. Do not succumb to peer pressure and avoid pressuring others into diving.
+- Self-doubt: Lack of confidence in your scuba training, experience and ability can impair your judgment and cause you to act in unsafe ways.
+- Equipment not working perfectly: Improperly functioning gear is distracting and dangerous. Regular, professional equipment maintenance is important.
+- Difficulty performing skills: Difficulty performing routine tasks can cause self-doubt that leads to panic.
+- Task loading: The accumulation of psychological and/or physiological stressors can trigger panic.
+
+## Chapter 13 Summary
+
+- The only reliable way to overcome panic is to prevent it from occurring in the first place.
+- Sources of stress can be physiological or psychological, or both. Recognizing and quickly responding to stress is key to preventing problems.
+
+# Chapter 14: Problem Solving
