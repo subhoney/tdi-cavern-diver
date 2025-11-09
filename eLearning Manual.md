@@ -74,6 +74,14 @@
   - [Dissimilar Cylinders](#dissimilar-cylinders)
   - [Gas Matching for Cavern Diving](#gas-matching-for-cavern-diving)
   - [Chapter 8 Summary](#chapter-8-summary)
+- [Chapter 9: Pre-dive Checks](#chapter-9-pre-dive-checks)
+  - [S-Drill](#s-drill)
+  - [Team](#team)
+  - [Air](#air-1)
+  - [Route](#route)
+  - [Tables](#tables)
+  - [Chapter 9 Summary](#chapter-9-summary)
+- [Chapter 10: Buoyancy, Trim and Propulsion](#chapter-10-buoyancy-trim-and-propulsion)
 
 # Chapter 1: Introduction
 
@@ -979,3 +987,77 @@ You must decide which set of limits you want to follow. No one can do this for y
 - When both buddies are using the same size cylinders, gas matching is only slightly more complex than it is when divers determine turn pressures independently of their teammates.
 - If you want your calculations to be precise when using dissimilar cylinders, you have to account for the fact that the same pressure in two dissimilar cylinders does not mean the cylinders are of equal volume.
 - Some divers believe complex gas calculations aren’t necessary for cavern diving.
+
+# Chapter 9: Pre-dive Checks
+
+Adequate preparation prevents problems. Here we’ll use a simple acronym, START—S-Drill, Team, Air, Route and Tables—for conducting a thorough in-water pre-dive check.
+
+## S-Drill
+
+The “S” in S-Drill stands for safety. While there are many problems that can occur underwater, there is only one real emergency. You must be prepared for this. It is best to make this preparation part of your pre-dive check—a step called the Safety Drill or S-Drill.
+
+Being suddenly without breathing gas is the most dangerous underwater situation. Performing the S-Drill will prepare you to safely handle a gas-sharing emergency.
+
+How to handle a loss of breathing gas depends on your equipment configuration.
+
+- Sidemount divers can likely manage their own loss of breathing gas by switching to the remaining cylinder and terminating the dive. They might, however, need to act as a donor for a non-sidemount buddy on open circuit.
+- Divers in backmounted doubles are more likely to experience a free-flowing regulator or damaged manifold than a total loss of breathing gas. This is why it’s important to begin every dive by making sure each valve is turned all the way on. This ensures the isolator is open and gas is flowing to both regulators.
+
+Prior to each dive in the Cavern Diver course, you may be instructed to practice gas sharing in shallow water. Practicing this skill is beneficial because:
+
+- It helps ensure that each diver’s long hose is readily deployable and not caught under straps or other equipment.
+- It helps build muscle memory associated with quickly passing a second stage while keeping it right-side up.
+- It helps teammates become familiar with each other’s gear.
+
+Large regulator mouthpieces may trigger a gag reflex in some divers—which further complicates a gas-sharing emergency. For this reason, compact mouthpieces are preferred over larger ones.
+
+However, you choose to conduct an S-Drill, it’s important to make sure your primary second stage is deployable and that all other team members are comfortable breathing from it.
+
+Some S-drills include a bubble check. We’ll cover this in the next section.
+
+## Team
+
+Team sequence should always be the first element in your dive plan. Go over it again so that there are no misunderstandings.
+
+The Team portion of START includes reviewing team sequence and visually inspecting one another to eliminate potential problems.
+
+Ensuring that every piece of equipment is in place and ready to go is an important part of any pre-dive check. While you can check many equipment items yourself, it is important to have a teammate give you a thorough head-to-toe visual inspection.
+
+- Check for twisted straps, hoses trapped under harness webbing, dangling gear or anything else that could cause problems later on.
+- Make sure you know how your buddy’s long hose deploys and what it would take to get them out of their harness and other equipment in an emergency.
+- Conduct a bubble check. In this exercise, you and your teammate submerge and check each other’s gas-delivery system for leaks.
+- Inspect valves, manifolds, regulators, and any items that are prone to leakage. If you detect leaks, get out of the water and fix them before proceeding.
+
+## Air
+
+While you may have done a preliminary projection of what each team member’s turnaround pressure will be, remember this:
+
+> You can only determine accurate gas turnaround points after you have been in the water long enough for your cylinders to adjust to ambient temperature.
+
+Calculating and reviewing each team member’s turnaround pressure is a critical part of the final in-water check.
+
+## Route
+
+The R in START stands for Route.
+
+> If elements such as Distance and Direction have been part of your original dive plan, you need to review them in the water before starting your dive.
+
+Again, this is more likely to come into play when diving larger caverns, possibly with multiple entry and exit points.
+
+## Tables
+
+The final T in START stands for Tables. Most likely not literal dive tables but rather Depth and Time.
+
+> If Depth and Time values are important enough to be part of your original dive plan, review them before starting the dive.
+
+This is most likely to happen in caverns with depths exceeding 20 m/65 ft.
+
+## Chapter 9 Summary
+
+- Being suddenly without breathing gas is the most dangerous underwater situation. Performing the S-Drill will prepare you to safely handle a gas-sharing emergency.
+- The Team portion of START includes reviewing team sequence and visually inspecting one another to eliminate potential problems.
+- You can only determine accurate gas turnaround points after you have been in the water long enough for your cylinders to adjust to ambient temperature.
+- If elements such as Distance and Direction have been part of your original dive plan, you need to review them in the water before starting your dive.
+- If Depth and Time values are important enough to be part of your original dive plan, you need to also review them before starting the dive.
+
+# Chapter 10: Buoyancy, Trim and Propulsion
