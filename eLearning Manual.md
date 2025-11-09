@@ -88,6 +88,14 @@
   - [Frog Kick](#frog-kick)
   - [Pulling](#pulling)
   - [Chapter 10 Summary](#chapter-10-summary)
+- [Chapter 11: Guideline and Reel Use](#chapter-11-guideline-and-reel-use)
+  - [General Principles of Guideline and Reel Use](#general-principles-of-guideline-and-reel-use)
+  - [Making Primary and Secondary Tie-Offs](#making-primary-and-secondary-tie-offs)
+    - [Choosing where to tie off](#choosing-where-to-tie-off)
+    - [The ideal tie-off point](#the-ideal-tie-off-point)
+    - [How to tie off](#how-to-tie-off)
+  - [Reel Use Inside Caverns](#reel-use-inside-caverns)
+  - [Chapter 11 Summary](#chapter-11-summary)
 
 # Chapter 1: Introduction
 
@@ -1135,3 +1143,103 @@ As a rule, when pulling, use handholds already used by others. The idea is to le
 - The modified flutter kick used in cave and cavern diving involves kicking with bent knees and ankles along with keeping the feet/fins above the plane of the body.
 - The frog kick is similar to the swimming motion used by a frog.
 - Pulling on strategically selected handholds may be the only effective way to move when in high-flow conditions.
+
+# Chapter 11: Guideline and Reel Use
+
+Maintaining a continuous guideline to open water is the most important rule you must follow when exploring overhead environments. Guideline and reel use are among the most important skills you learn in the Cavern Diver course.
+
+This chapter covers the use of guidelines and reels, including:
+
+- General principles that apply to any type of guideline and reel use in caverns and caves.
+- Making primary and secondary tie-offs at the cavern entrance.
+- Running reels inside caverns.
+
+## General Principles of Guideline and Reel Use
+
+These include:
+
+- Buoyancy control comes first. Don’t allow running the reel or interacting with teammates to distract you from maintaining proper buoyancy. If necessary, stop and reestablish buoyancy control before continuing with the reel.
+  > Maintaining neutral buoyancy takes precedence over operating a guideline.
+- Keep the guideline taut (stretched tight) at all times. Maintaining tension on the guideline helps prevent guideline entanglement.
+- If the guideline becomes slack, stop and tighten it before continuing. Avoid kicking while reeling in line as you exit a cavern. Instead, use the reel to pull yourself out. This will help keep the guideline taut.
+- Do not hold the reel by the handle unless you have a finger on the spool or a hand on the crank. When tying off, hold the reel by the spool and not by the handle. This will help prevent the spool from turning freely.
+
+[!image](/img/128.jpg)
+
+- Visualize reel orientation. The guideline must always face the cavern entrance. When reeling into the cave, the guide (guideline opening) should point behind you. When reeling out of the cave, the guide should point in front of you.
+
+Running reels is a team effort.
+
+> The team leader is responsible for running the reel. The second team member plays an equally important role.
+
+Buddies can help by:
+
+- Providing illumination for the team leader as needed.
+- Pulling tie-offs for the team leader on the way out, if possible.
+- Not pulling placements on the way out, as this may cause the line to go slack.
+- Staying well out in front of a team leader who is reeling out in high-flow conditions. This is so the team leader won’t have to constantly stop to avoid running into you, which might cause the line to go slack.
+- Keeping your hands off the guideline and staying out of the way.
+
+Think of others when running reels and spools.
+
+- Do not place guidelines in a manner that poses an entanglement risk to other teams. Use placements as needed to keep your guideline low to the floor and out of the way of others.
+- Do not use another team’s tie-offs and placements or cross another team’s line. If you must cross another team’s line, do so underneath so they will have less difficulty pulling their line.
+- Run your line so that other teams may run their line parallel to yours (don’t zigzag your line back and forth across the passageway).
+
+## Making Primary and Secondary Tie-Offs
+
+Unless there are permanent guidelines in place and the landowner or government entity controlling the site prohibits you from running your own reels, always begin every cavern dive by making primary and secondary tie-offs.
+
+### Choosing where to tie off
+
+The ideal place to make a primary tie-off is in open water, just outside the cavern entrance, at a point where you can make a direct, uninterrupted ascent to breathable air. Do this whenever possible.
+
+At some sites, there may be no secure and reliable tie-off points in open water. You may find safer and better tie-off points located at or just inside the cavern entrance.
+Consider the risk your guideline may pose to others.
+
+- Many cavern diving sites are also frequented by swimmers, snorkelers and open-water scuba divers. Take care that your guideline does not pose an entanglement risk to a swimmer or snorkeler.
+- You also don’t want to create what is known as an attractive nuisance that might entice a freediver or open-water diver to venture into an overhead environment. When this is a possibility, set your guideline discreetly.
+
+> Your primary and secondary tie-offs must be safe and secure—and not pose a risk to others.
+
+### The ideal tie-off point
+
+Your primary tie-off point will likely be either a rock formation or fallen log at the bottom of the basin. The best tie-off points share the following characteristics:
+
+- They are either firmly attached to the bottom or are too large and heavy to be easily moved.
+- They are no wider in diameter than a telephone pole.
+- The most ideal rock formation for tie offs resembles a fist—wider above the wrist, narrower along the arm. Make your tie off just below the wrist and it will be less likely to slip off.
+
+### How to tie off
+
+A tie off consists of two wraps around a solid object. Open-ended objects make the best tie-off points, because you can easily remove or “pull” it at the end of the dive.
+
+[!image](/img/130.jpg)
+
+Secondary tie-offs serve as a backup to the primary tie-off and are usually made just inside the cave entrance. Secondary tie-offs consist of two wraps and a locking loop.
+
+[!image](/img/131.jpg)
+
+After making your primary and secondary tie-offs, avoid making any others. Other than these initial tie offs, control the guideline by using placements (tucking or placing the line next to an object, as opposed to wrapping an object), as these “pull” themselves as you exit.
+
+## Reel Use Inside Caverns
+
+Your primary and secondary tie-offs are made. Now what do you do? This depends on the shape and size of the cavern.
+
+- In smaller caverns, you may do little more than run your reel to the back of the cavern, tie off, then spend your time either exploring in the immediate vicinity of the reel, or back and forth along the guideline.
+- In larger caverns, you may first run the reel to one part of the cavern, then later untie it and move to a different part of the cavern to explore further.
+
+[!image](/img/132.jpg)
+
+Do not sweep your guideline back and forth across the width of the cavern. Doing so could cause you to cross other teams’ lines, snare other divers or accidentally pull the reel away from one of your own team members.
+
+> The number one rule of reel use inside caverns is that you never “pull” the reel and exit the cavern before first making sure all your teammates are present and accounted for. They are to exit the cavern ahead of you.
+
+Pulling a reel before confirming that teammates have exited has contributed to fatal accidents involving cavern divers.
+
+## Chapter 11 Summary
+
+- Maintaining neutral buoyancy takes precedence over operating a guideline.
+- The team leader is responsible for running the reel. The second team member plays an equally important role.
+- Your primary and secondary tie-offs must be safe and secure—and not pose a risk to others.
+- The number one rule of reel use inside caverns is that you never “pull” the reel and exit the cavern before making sure all your teammates are present and accounted for. They are to exit the cavern ahead of you.
