@@ -96,6 +96,23 @@
     - [How to tie off](#how-to-tie-off)
   - [Reel Use Inside Caverns](#reel-use-inside-caverns)
   - [Chapter 11 Summary](#chapter-11-summary)
+- [Chapter 12: Communication](#chapter-12-communication)
+  - [Command Signals](#command-signals)
+    - [Okay? Okay!](#okay-okay)
+    - [Hold!](#hold)
+    - [Surface](#surface)
+  - [Lights](#lights-1)
+    - [Attention](#attention)
+    - [Emergency](#emergency)
+  - [Hand Signals](#hand-signals)
+    - [Silt](#silt-1)
+    - [Question?](#question)
+    - [Bubbles](#bubbles)
+    - [Backup Light On](#backup-light-on)
+    - [Which Way?](#which-way)
+    - [Slow Down](#slow-down)
+  - [Other Means of Communication](#other-means-of-communication)
+  - [Chapter 12 Summary](#chapter-12-summary)
 
 # Chapter 1: Introduction
 
@@ -1243,3 +1260,109 @@ Pulling a reel before confirming that teammates have exited has contributed to f
 - The team leader is responsible for running the reel. The second team member plays an equally important role.
 - Your primary and secondary tie-offs must be safe and secure—and not pose a risk to others.
 - The number one rule of reel use inside caverns is that you never “pull” the reel and exit the cavern before making sure all your teammates are present and accounted for. They are to exit the cavern ahead of you.
+
+# Chapter 12: Communication
+
+Good communication among team members is critical to safe cavern diving. Cavern divers rely on three types of signals:
+
+- Command signals
+- Light signals
+- Hand signals
+
+Command signals are usually just a special type of hand signal, although there is one which divers generally make using lights. We’ll cover these first before mentioning other means of communication.
+
+## Command Signals
+
+Command signals are the first tier of communication in cavern and cave diving.
+
+Every team member must respond to command signals in a specific way.
+Abort the dive if a team member does not or cannot respond appropriately.
+
+[!image](/img/133.jpg)
+
+These signals include:
+
+### Okay? Okay!
+
+Just as in open water, this signal can be both a question and an answer. Once any team member uses this signal to pose it as a question, every other team member must confirm that he or she either is okay, or explain why he or she is not. Any response other than Okay generally means it is time to “call” the dive.
+
+Cavern and cave divers often use lights to communicate the Okay signal, unless they are already facing one another. In a three-person team, if the diver in the middle receives an Okay signal from a diver on either side, he or she first checks with the remaining diver before signaling back that both are okay.
+
+### Hold!
+
+Any team member can use this signal (a closed fist) to have other team members stop and hold in place. Once a team member gives this signal, the other team members must give the Hold signal in response to indicate they understand they are not to move.
+
+When the situation that first caused a team member to initiate the Hold signal is resolved, that team member signals Okay. At this point, the other team members respond with Okay signals, and the dive continues.
+
+### Surface
+
+This signal (an upward pointing thumb, as in open water) means that the dive is over, and all team members are to exit in sequence. As with all command signals, the other team members must give the Surface signal in response to the team member who initiated it, to indicate they understand the dive is over.
+
+## Lights
+
+Light signals are the second tier of communication in cavern and cave diving.
+
+> Light signals are among the easiest and most efficient to use.
+
+Cavern diving lights should have tightly focused, narrow beams. This facilitates signaling.
+
+[!image](/img/134.jpg)
+
+Commonly used light signals (beyond the Okay signal) include:
+
+### Attention
+
+A slow, back-and-forth movement in any direction.
+
+### Emergency
+
+A rapid, back-and-forth movement in any direction.
+
+## Hand Signals
+
+Most of the same hand signals used in open water apply to cavern and cave diving. There are, however, some hand signals that are unique to diving in overhead environments.
+
+To use hand signals, divers must first be facing one another. This may involve using the Attention light signal so that everyone in the team looks in the direction of the signaler.
+
+[!image](/img/135.jpg)
+
+Hand signals involving the use of crossed fingers pertain to the use of guidelines and reels. These signals convey messages such as reel out, tie off, entanglement and cut the line. Other common hand signals include:
+
+### Silt
+
+Indicated by rubbing the thumb and fingers together. This signal is most often used to tell another team member that he or she is causing a silt-out.
+
+### Question?
+
+Indicated by curving the index finger like a question mark and followed by other signals to explain the nature of the question. For example, Question: Am I bubbling?
+
+### Bubbles
+
+Indicated by bouncing the index finger off the tip of the thumb. This signal is most often used to ask a fellow team member whether your regulator or valves are leaking, or to tell a fellow team member that his or her regulator or valves are leaking.
+
+### Backup Light On
+
+Backup lights can come on accidentally during a dive (your instructor will tell you how to avoid this). The backup light signal (fingers flashing like rays of light) can be used to tell a fellow team member that his or her backup light has come on.
+
+### Which Way?
+
+Indicated by pointing the thumb from side to side, this signal asks, which way do we go?
+
+### Slow Down
+
+To tell fellow team members to slow down, move your forearm up and down, with your palm spread flat and pointing downward.
+
+## Other Means of Communication
+
+Where there is a need to communicate information that light and hand signals cannot, divers can use slates or wet notes.
+
+> If divers must resort to using slates or wet notes to communicate with one another it may indicate a situation that dictates terminating the dive.
+
+Another means of communication is called touch-contact communication. This is an emergency procedure covered in the Problem Management section.
+
+## Chapter 12 Summary
+
+- Every team member must respond to command signals in a specific way.
+- Light signals are among the easiest and most efficient to use.
+- To use hand signals, divers must first be facing one another. This may involve using the Attention light signal so that everyone in the team looks in the direction of the signaler.
+- If divers must resort to using slates or wet notes to communicate with one another it may indicate a situation that dictates terminating the dive.
