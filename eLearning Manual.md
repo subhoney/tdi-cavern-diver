@@ -43,6 +43,19 @@
   - [BC Air Cell, Harness and Weight System](#bc-air-cell-harness-and-weight-system)
   - [Instrumentation](#instrumentation)
   - [Chapter 5 Summary](#chapter-5-summary)
+- [Chapter 6: Specialized Equipment for Cavern Diving](#chapter-6-specialized-equipment-for-cavern-diving)
+  - [Reels and Spools](#reels-and-spools)
+    - [Reels and spools: what’s the difference?](#reels-and-spools-whats-the-difference)
+    - [Reel and spool categories](#reel-and-spool-categories)
+  - [Lights](#lights)
+    - [Primary dive lights](#primary-dive-lights)
+    - [Backup lights](#backup-lights)
+  - [Attachment Hardware](#attachment-hardware)
+    - [The ideal snap](#the-ideal-snap)
+    - [Securing backup lights](#securing-backup-lights)
+  - [Cutting Tools](#cutting-tools)
+  - [Line Markers](#line-markers)
+  - [Chapter 6 Summary](#chapter-6-summary)
 
 # Chapter 1: Introduction
 
@@ -519,3 +532,185 @@ Most cave and technical divers avoid using a multi-gauge instrument console, rel
 - Although you can use a conventional alternate-air-source second stage for cavern diving, consider switching to a primary second stage with a long hose for gas sharing.
 - Your BC air cell, harness and weight system must be configured to help you maintain proper horizontal trim.
 - Your instrumentation needs to include a means of monitoring depth, time, no-decompression status and cylinder pressure.
+
+# Chapter 6: Specialized Equipment for Cavern Diving
+
+As a cavern diver, you will use several items that are not normally part of sport diving in open water, including:
+
+- Reels and spools for backup navigation in case you lose sight of the exit.
+- Primary and backup lights to ensure you are never without a light source to augment sunlight entering the cavern.
+- Attachment hardware to prevent items such as lights and reels from becoming lost or causing damage.
+- Cutting tools in case of entanglement.
+- Line markers, which are useful in missing diver scenarios.
+
+Let’s take a look at each of these.
+
+## Reels and Spools
+
+Cave divers primarily navigate using permanent guidelines installed in the cave, while cavern divers generally do not.
+
+- Cave divers use reels and spools to make temporary connections between permanent guidelines and the cave entrance or other guidelines.
+- Cavern divers typically use a single temporary guideline connecting them with the cavern entrance.
+- Some dive sites, such as those used for guided cavern dives, have lines permanently installed so that temporary guidelines are not needed.
+
+### Reels and spools: what’s the difference?
+
+A spool is a cylindrical device onto which line can be wound. A reel is a spool with additional features, including:
+
+- An axle
+- A winding knob
+- A lockdown screw or mechanism
+- A frame
+- A handle
+- An attachment clip
+
+[!image](/img/65.jpg)
+
+Reels are typically larger than spools. Some reel designs feature a handle on top. Newer designs tend to have a side-mounted handle.
+
+[!image](/img/66.jpg)
+
+Spools consist of just the spool itself, coupled with a double-ended snap used for carrying the spool and clipping it off.
+
+- Compared with spools of the same capacity, reels are larger and heavier. They cannot be stowed in pockets and must be carried externally, clipped off to D-rings.
+- Reels are slightly more difficult to use than spools.
+
+The biggest drawback of reels is that they can jam. A jammed reel can be difficult to fix while underwater.
+
+[!image](/img/67.jpg)
+
+- Spools are compact and can fit into pockets, reducing the risk of loss or entanglement.
+- Spools are easier to use and require less practice.
+- The biggest advantage of spools is that, with the exception of “bird’s nesting”—line piling up on one side of the spool—they are almost impossible to jam.
+
+Still, conventional reels are often preferred over spools for two reasons:
+
+- Using a spool to wind up more than a few meters/feet of guideline can cause wrist strain. This is why most cavern divers use spools only to cover short distances or for use in place of a safety reel to eliminate the risk of a reel jamming.
+- [!image](/img/68.jpg)
+- The act of winding a guideline around a spool tends to put a twist in the line. After a few uses, you may need to unwind the spool, straighten the line, then rewind it.
+
+Most cavern and cave divers use conventional reels for long distances and spools for short distances or in place of a safety reel.
+
+### Reel and spool categories
+
+Reels and spools generally fall into one of four categories:
+
+[!image](/img/69.jpg)
+
+- Exploration reels are the largest and capable of carrying several hundred meters/feet of guideline. These are used in the exploration and mapping of virgin caves.
+- Primary reels typically carry 75-150 m/250-500 ft of guideline. Cave divers generally use them to connect a cave entrance to a permanent guideline or to explore off a permanent guideline. Cavern diving teams use them as their primary means of navigation.
+- Safety reels and spools typically carry 40 m/125 ft or more of guideline. These are used in emergency situations, such as if divers become lost off the guideline.
+- Jump reels and spools are used by cave divers to make temporary connections between permanent guideline. They come in a variety of sizes and will generally carry at least 6 m/20 ft of line. Cavern divers generally do not use them.
+
+[!image](/img/70.jpg)
+
+> Cavern diving teams must carry at least one primary reel per team and one safety reel or spool per diver.
+
+## Lights
+
+\_(Note: All images removed. They aren't helpful. -Ed.)
+
+Each team member needs to have three light sources.
+
+Because cavern divers dive during daylight hours and remain within clear sight of the entrance, the sun counts as the primary source of light for cavern diving.
+
+### Primary dive lights
+
+Your primary dive light is the one you use throughout the dive. Your backup light is used in the event of primary light failure.
+
+What makes a light suitable as a primary light for cavern diving?
+
+- Output: Select a primary light rated for 1,000 lumens or more. Your light’s output should be comparable with your teammates’ lights. A teammate using a significantly less powerful light risks accidentally being left behind because his or her buddies fail to notice their absence.
+- Pattern: The best lights for cavern and cave diving have tight, narrowly focused beams. This is good for looking down long passageways and into cracks and crevices, and makes it possible to use a primary light as a signaling device—a critical part of cavern and cave diving.
+- Can be used while running reels and spools: The most common primary lights for cavern and cave diving are worn using a glove mount or what is known as a Goodman handle. This leaves the hands free for working with reels and spools.
+
+### Backup lights
+
+Backup lights provide illumination for exiting the cavern following primary light failure. A backup light will typically have a rated output of at least _200 lumens or more_.
+
+It is not unusual to have backup lights powered by the same type of battery used in primary lights. This can yield high output coupled with long burn times.
+
+Some cavern and cave divers mount primary or backup lights on helmets. This allows hands-free operation—but it also means you can blind a buddy simply by looking at him. It also makes signaling with lights difficult. Do not permanently attach your only primary light to a helmet.
+
+Many lights come with wrist lanyards. These make it impossible to work with reels and spools. For cavern diving, remove the lanyards and replace them with stainless bolt snaps.
+
+## Attachment Hardware
+
+As a cavern diver, you need a way to attach and carry:
+
+- Lights
+- Reels and spools
+- SPGs or consoles
+
+Any time one of these items is not in your hand, it must be attached or stowed where it will not likely be lost or cause entanglement.
+
+Again, replace any lanyards that come with lights with stainless bolt snaps. Attach a stainless snap to your SPG or console so you can clip it to a harness D-ring when not in use.
+
+### The ideal snap
+
+The best type of snap for attaching lights, reels, spools and gauges must meet several criteria, including:
+
+- Resistance to accidental opening or breakage.
+- Ease of operation by touch or feel.
+- Little likelihood of accidentally trapping line.
+
+> The stainless steel bolt snap is ideal for cave and cavern use.
+
+It is also called a dog leash snap. It opens by sliding a spring-loaded bolt.
+
+Other types of snaps include carabiners and gate snaps. Although these are easier to operate than bolt snaps, cave and cavern divers should avoid them for two reasons:
+
+- They can become stuck in the open position, leading to equipment loss.
+- They have a greater tendency to accidentally trap guideline.
+- Attaching snaps to lights and gauges
+- The preferred method for attaching snaps to lights and gauges is to use several wraps of the same nylon guideline you find on your reels and spools and secure it with a square knot.
+
+After tying the knot, cut off all but a short piece of line on each side. Then, using a lighter, melt the end of each line so that it forms a “mushroom” right next to the knot. This will help prevent the knot from opening accidentally.
+
+> Do not attach snaps to lights and reels using plastic cable ties because cable ties break easily.
+
+Ironically, it is for this very reason that some divers choose to use cable ties to attach snaps to items such as primary second stage. In the event of an emergency, they want to be able to break this connection quickly.
+
+Do not attach snaps using stainless quick links or other metal hardware. Why? Because, in an entanglement situation, you can’t cut these free.
+
+### Securing backup lights
+
+The preferred method for carrying backup lights is to snap them to a shoulder D-ring and then secure the body of the light to the lower portion of your shoulder strap with a circle of bungee cord or similar elastic material.
+
+Unfortunately, this may not work with sidemount or with some jacket-style sport-diving BCs. One alternative might be to attach the light to the upper portion of the shoulder strap. Alternately, you can stow a backup light in a BC or thigh pocket.
+
+## Cutting Tools
+
+In caverns and caves, you need a quick and reliable way to cut through guideline entanglement.
+
+> The line cutter is the preferred cutting tool for cavern and cave diving.
+
+These are often referred to as Z-knives. They evolved from the type of line cutter used by skydivers.
+
+A typical line cutter for cavern and cave diving will consist of a razor blade inside a protective plastic or metal hook. It may have some sort of handle but still be smaller in size than most dive knives.
+
+Line cutters can be carried on wrist straps, chest straps or harness waistbands. It’s common for cavern and cave divers to also carry a backup cutting device. This can be a second line cutter or a set of trauma shears carried in a sheath or stowed in a pocket.
+
+Cave and cavern divers are advised not to carry large dive knives, especially those sheathed and worn on the lower leg. Knives like this were once popular but are impractical and pose an entanglement hazard when worn on the leg.
+
+## Line Markers
+
+Cave divers use line markers for a variety of reasons, including indicating the direction of the closest exit and marking popular intersections, also called jumps. In cavern diving, line markers are used primarily in emergency situations.
+
+> Line markers fall into one of two categories: directional and non-directional.
+
+[!image](/img/86.jpg)
+
+Line arrows are directional markers. These arrowhead-shaped markers are intended to always point to the closest exit. Never put a line arrow on a line unless you are certain it points to the closest exit.
+
+Non-directional markers come in a variety of shapes. The most common is the cookie. It has guideline slots like a line arrow, but rather than being shaped like an arrowhead, it is a round disk. Another common non-directional marker is the reference marker.
+
+Non-directional markers are to be used when you are either unsure of the direction of the exit, or don’t want to convey directional information to others.
+
+## Chapter 6 Summary
+
+- Cavern diving teams must carry at least one primary reel per team and one safety reel or spool per diver.
+- Because cavern divers dive during daylight hours and remain within clear sight of the entrance, the sun counts as the primary source of light for cavern diving.
+- The stainless steel bolt snap is ideal for cave and cavern use.
+- The line cutter is the preferred cutting tool for cavern and cave diving.
+- Line markers fall into one of two categories: directional and non-directional.
