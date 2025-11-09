@@ -21,6 +21,16 @@
   - [Solution Cave Formation](#solution-cave-formation)
   - [Cavern and Cave Entrance Types](#cavern-and-cave-entrance-types)
   - [Chapter 3 Summary](#chapter-3-summary)
+- [Chapter 4: Environmental Risks](#chapter-4-environmental-risks)
+  - [Overhead Environments](#overhead-environments)
+  - [Loss of Visibility](#loss-of-visibility)
+    - [Poor starting visibility](#poor-starting-visibility)
+      - [Siphoning](#siphoning)
+      - [Silt](#silt)
+  - [Siphons](#siphons)
+  - [Restrictions](#restrictions)
+  - [Line Traps](#line-traps)
+  - [Chapter 4 Summary](#chapter-4-summary)
 
 # Chapter 1: Introduction
 
@@ -254,3 +264,103 @@ The opposite is true for siphons. Additionally, divers entering siphons may expe
 - Springs exist where water flows out of the ground.
 - Siphons exist where water flows into the ground.
 - Diving springs are almost always safer than diving siphons because divers will require less time, effort, and breathing gas to exit a spring than is needed to enter.
+
+# Chapter 4: Environmental Risks
+
+Now that you know where underwater caverns and caves come from, it’s time to talk about the risks associated with diving them. To do this, we’ll answer the following questions:
+
+- What are the risks associated with diving overhead environments?
+- Why do siphons pose a greater risk than springs?
+- What can cause loss of visibility and why is it a problem?
+- What are restrictions and why should you avoid them?
+- What are line traps and why should you avoid them?
+
+## Overhead Environments
+
+Aquatic environments can pose many risks for divers, the greatest of which is being out of breathing gas while underwater.
+
+> Divers in open water almost always have the ability to make a direct ascent to the surface.
+
+A direct ascent to the surface is not possible when cavern diving.
+
+## Loss of Visibility
+
+Why be concerned with maintaining good visibility?
+
+> Loss of visibility can trigger more serious problems.
+
+They include:
+
+- Disorientation and confusion.
+- Buddy separation and impeded communication.
+- Losing sight of the guideline or exit.
+- Substantially slower exit times; especially if divers need to spend time locating the guideline, the exit, or each other.
+
+Loss of visibility can be caused by:
+
+- Poor starting visibility.
+- Siphoning.
+- Disturbance of silts and sediments.
+
+### Poor starting visibility
+
+If the visibility inside a cavern is poor when entering, it will not likely improve. On the other hand, if you start in good visibility, a slight decrease in overall visibility is not likely to be a problem.
+
+#### Siphoning
+
+Siphons can suck in dark, tannic-laden river water or algae from an adjacent open-water basin. This can severely lower visibility.
+
+#### Silt
+
+Given good starting visibility, the greatest risk of loss of visibility comes from the disturbance of silt. Silt is a broad term that actually describes a range of sediments.
+
+[!image](/img/38.jpg)
+
+_(Note: I have only included this graphic because I think it's hilarious. -Ed.)_
+
+- At one end of the continuum is sand. While easily disturbed, it drops out of suspension almost immediately.
+- At the other end of the continuum is clay. While harder to disturb, once you do so it can take up to 24 hours or more to settle.
+
+The best way to handle silting problems is to avoid them.
+
+- Silt is common in areas with low flow, so be aware of water movement—or lack of it—in caverns.
+- Pay attention to the bottom composition and learn to distinguish between sand, mud and clay.
+
+To avoid or reduce silting, perfect your buoyancy control, trim and propulsion techniques.
+
+## Siphons
+
+Avoid siphons whenever possible, because:
+
+> Siphons are often associated with poor visibility. Siphoning can make it difficult or impossible to exit a cavern.
+
+Diving a siphon requires more time, energy and breathing gas to exit a cavern than you used when entering.
+A mild siphon near the cavern entrance can turn into an overpowering one farther in. This poses an entrapment risk. The best way to deal with siphons is to avoid them.
+
+## Restrictions
+
+Among the limits of Cavern Diver training is a prohibition against passing through restrictions.
+
+> A restriction is a passage or opening too narrow for divers to pass through side by side.
+
+[!image](/img/40.jpg)
+
+Negotiating restrictions, including air-sharing while passing through a restriction, requires specialized training that is not a part of Cavern Diver training. Minor restrictions are covered in the TDI Intro Cave and TDI Full Cave courses.
+
+## Line Traps
+
+Line traps are openings into which divers may accidentally pull the guideline but are too narrow for the divers to pass through.
+
+[!image](/img/41.jpg)
+
+> Line traps are dangerous because they prevent divers from exiting the cavern using the guideline. The ability to follow a guideline is critically important in low visibility.
+
+When running reels, check behind you frequently to ensure your guideline has not fallen into a line trap.
+
+## Chapter 4 Summary
+
+- Divers in open water almost always have the ability to make a direct ascent to the surface. A direct ascent is not possible when cavern diving.
+- Loss of visibility can trigger serious problems including disorientation and confusion, buddy separation and impeded communication, losing sight of the guideline or exit, and slower exit times.
+- Siphons are often associated with poor visibility. Siphoning can make it difficult or impossible to exit a cavern.
+- A restriction is a passage or opening too narrow for divers to pass through side by side.
+- Line traps are dangerous because they prevent divers from exiting the cavern using the guideline. The ability to follow a guideline is critically important in low visibility.
